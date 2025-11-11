@@ -1,1 +1,2 @@
-My name is Bhavya
+git config --global user.email "bhavyajonnala@gmail.com"
+  git config --global user.name "Bhavya"
